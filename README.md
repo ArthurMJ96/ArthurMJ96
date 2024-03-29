@@ -1,9 +1,22 @@
-## Hi👋, I'm ArthurMJ96
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-munoz-jorda-4b4b87174/)
-[![text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REMOVETHIS+1114aze@gmail.com)
+<p>
+  <img src="./fet.gif" width="20%" align="left" />
+	<img src="./fet.gif" width="20%" align="right" />
+</p>
 
-- 🔭 I’m currently Senior Fullstack developer
+<h1 align="center">
+  Hi👋, I'm ArthurMJ96
+</h1>
 
+<p align="center">
+	<a href="https://www.linkedin.com/in/arthur-munoz-jorda-4b4b87174/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="mailto:REMOVETHIS+1114aze@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+</p>
+
+- 🔭 I’m currently Senior Fullstack developer  
 - 💬 Ask me about Vue, Nuxt, NativeScript, TypeScript and NodeJS
 
 # Languages and Tools:
