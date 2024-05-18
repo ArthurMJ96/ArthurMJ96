@@ -21,16 +21,16 @@
 
 # Languages and Tools:
 ##### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,nuxt,nginx,webpack,bun)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,php,nuxt,nginx,webpack,bun)
 
 ##### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,pinia,tailwind,vuetify,bootstrap,html,css,jquery,electron,threejs&perline=7)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,vue,nuxt,pinia,tailwind,vuetify,bootstrap,html,css,jquery,electron,threejs&perline=7)
 
 ##### Database
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,graphql,redis,sqlite)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,graphql,redis,sqlite,pocketbase)
 
 ##### Cloud XP
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,supabase,cloudflare,workers)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,firebase,supabase,cloudflare,workers)
 
 ##### Tools
-[![My Skills](https://skillicons.dev/icons?i=wordpress,git,github,docker,figma,vscode,postman,raspberrypi,rollupjs,vite,linux,bash&perline=7)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wordpress,git,github,docker,figma,vscode,postman,raspberrypi,rollupjs,vite,linux,bash,teams,discord,coolify&perline=7)
