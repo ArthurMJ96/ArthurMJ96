@@ -21,16 +21,16 @@
 
 # Languages and Tools:
 ##### Backend
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,php,nuxt,nginx,webpack,bun)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,php,nuxt,nginx,webpack,bun,appwrite,ghost&perline=8)
 
 ##### Frontend
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,vue,nuxt,pinia,tailwind,vuetify,bootstrap,html,css,jquery,electron,threejs&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,vue,nuxt,pinia,tailwind,vuetify,bootstrap,html,css,jquery,electron,threejs&perline=8)
 
 ##### Database
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,graphql,redis,sqlite,pocketbase)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,graphql,redis,sqlite,pocketbase&perline=8)
 
 ##### Cloud XP
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,firebase,supabase,cloudflare,workers)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,firebase,supabase,cloudflare,workers&perline=8)
 
 ##### Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wordpress,git,github,docker,figma,vscode,postman,raspberrypi,rollupjs,vite,linux,bash,teams,discord,coolify&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wordpress,git,github,docker,figma,vscode,postman,raspberrypi,rollupjs,vite,linux,bash,teams,discord,coolify&perline=8)
