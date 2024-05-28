@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Hi👋, I'm ArthurMJ96
+  Hi👋, I'm Arthur MJ
 </h1>
 
 <p align="center">
