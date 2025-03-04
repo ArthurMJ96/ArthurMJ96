@@ -29,16 +29,16 @@
 
 # Languages and Tools:
 ##### Backend
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,php,nuxt,nginx,webpack,bun,appwrite,ghost&perline=10)
+![nodejs,express,php,nuxt,nginx,webpack,bun,appwrite,ghost](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,php,nuxt,nginx,webpack,bun,appwrite,ghost&perline=10 "nodejs, express, php, nuxt, nginx, webpack, bun, appwrite, ghost")
 
 ##### Frontend
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,vue,nuxt,pinia,tailwind,vuetify,bootstrap,html,css,jquery,electron,threejs&perline=8)
+![js,ts,vue,nuxt,pinia,tailwind,vuetify,bootstrap,html,css,jquery,electron,threejs](https://go-skill-icons.vercel.app/api/icons?i=js,ts,vue,nuxt,pinia,tailwind,vuetify,bootstrap,html,css,jquery,electron,threejs&perline=8 "js, ts, vue, nuxt, pinia, tailwind, vuetify, bootstrap, html, css, jquery, electron, threejs")
 
 ##### Database
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,graphql,redis,sqlite,pocketbase&perline=8)
+![postgresql,mysql,mongodb,graphql,redis,sqlite,pocketbase](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,graphql,redis,sqlite,pocketbase&perline=8 "postgresql, mysql, mongodb, graphql, redis, sqlite, pocketbase")
 
 ##### Cloud XP
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,firebase,supabase,cloudflare,workers&perline=8)
+![aws,gcp,firebase,supabase,cloudflare,workers](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,firebase,supabase,cloudflare,workers&perline=8 "aws, gcp, firebase, supabase, cloudflare, workers")
 
 ##### Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=wordpress,git,github,docker,figma,vscode,postman,raspberrypi,rollupjs,vite,linux,bash,teams,discord,coolify&perline=8)
+![wordpress,git,github,docker,figma,vscode,postman,raspberrypi,rollupjs,vite,linux,bash,teams,discord,coolify](https://go-skill-icons.vercel.app/api/icons?i=wordpress,git,github,docker,figma,vscode,postman,raspberrypi,rollupjs,vite,linux,bash,teams,discord,coolify&perline=8 "wordpress, git, github, docker, figma, vscode, postman, raspberrypi, rollupjs, vite, linux, bash, teams, discord, coolify")
